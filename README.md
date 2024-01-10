@@ -7,7 +7,7 @@ A brief analysis on most populated cities of the world.
 -Dataset
 -Python code
 -Plotted results
--A brief conclusion about the analysis
+-plotted results
 
 
 
