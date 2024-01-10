@@ -1,2 +1,12 @@
 # Population_world_cities
-A brief analysis on most populated cities in the world 
+
+A brief analysis on most populated cities of the world.
+
+# Contents
+
+-Python code
+-Plotted results
+-A brief conclusion about the analysis
+
+
+
